@@ -1,0 +1,14 @@
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\bin\Debug\netcoreapp3.1\TextLineShuffler.exe
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\bin\Debug\netcoreapp3.1\TextLineShuffler.deps.json
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\bin\Debug\netcoreapp3.1\TextLineShuffler.runtimeconfig.json
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\bin\Debug\netcoreapp3.1\TextLineShuffler.runtimeconfig.dev.json
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\bin\Debug\netcoreapp3.1\TextLineShuffler.dll
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\bin\Debug\netcoreapp3.1\TextLineShuffler.pdb
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.csproj.AssemblyReference.cache
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.AssemblyInfo.cs
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.dll
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.pdb
+C:\Users\millr\source\repos\TextLineShuffler\TextLineShuffler\obj\Debug\netcoreapp3.1\TextLineShuffler.genruntimeconfig.cache
